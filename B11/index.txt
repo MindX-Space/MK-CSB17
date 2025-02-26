@@ -1,0 +1,4 @@
+1. Độ phức tạp thời gian và độ phức tạp không gian của một thuật toán là gì?
+2. Làm thế nào để phân tích độ phức tạp của một thuật toán?
+3. Ký hiệu Big O là gì và nó được sử dụng để làm gì?
+4. Bạn có thể giải thích khái niệm "chia để trị" trong thuật toán không?
